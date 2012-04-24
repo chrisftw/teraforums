@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'teraforums' target in the 'teraforums' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
