@@ -21,7 +21,10 @@
 	<key>OpenAllWhitelistURLsInWebView</key>
 	<false/>
 	<key>ExternalHosts</key>
-	<array/>
+	<array>
+		<string>*</string>
+		<string>*.enmasse.com</string>
+	</array>
 	<key>Plugins</key>
 	<dict>
 		<key>Compass</key>
